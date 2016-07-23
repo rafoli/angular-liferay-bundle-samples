@@ -1,4 +1,4 @@
-Bundle-SymbolicName: com.rafoli.liferay.angular.samples.todo
+Bundle-SymbolicName: com.rafoli.liferay.bundle.angular.samples.todo
 
 Bundle-Version: 0.1.0
 

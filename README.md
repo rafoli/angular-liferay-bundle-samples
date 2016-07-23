@@ -1,1 +1,1 @@
-# angular-liferay-bundle
+# liferay-bundle-angular-samples
