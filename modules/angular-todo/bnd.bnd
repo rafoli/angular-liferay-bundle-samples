@@ -1,0 +1,10 @@
+Bundle-SymbolicName: com.rafoli.liferay.angular.samples.todo
+
+Bundle-Version: 0.1.0
+
+Bundle-Name: Angular Liferay Bundle Samples - Todo
+
+Import-Package: \
+	javax.portlet;version='[2.0,3)',\
+	javax.servlet;version='[2.5,4)',\
+	*

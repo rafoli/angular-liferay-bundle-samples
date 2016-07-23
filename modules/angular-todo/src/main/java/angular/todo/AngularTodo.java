@@ -1,4 +1,4 @@
-package com.rafoli.liferay.angular;
+package angular.todo;
 
 import javax.portlet.Portlet;
 
@@ -12,7 +12,7 @@ import com.liferay.portal.kernel.portlet.bridges.mvc.MVCPortlet;
 	},
 	service = Portlet.class
 )
-public class AngularPortlet extends MVCPortlet {
+public class AngularTodo extends MVCPortlet {
 
 
 }
